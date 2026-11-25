@@ -1,0 +1,7 @@
+node_modules/
+u-markk-st-one-line-office-jokes-a51f2bcc-kit/
+*.tar.gz
+bundle-parent.tar.gz
+bundle-*.tar.gz
+crosscheck.md
+builder-prompt.txt
